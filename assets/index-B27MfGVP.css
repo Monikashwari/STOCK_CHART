@@ -1,0 +1,1 @@
+body{font-family:Arial,sans-serif;margin:0;padding:0;display:flex}.app{display:flex;height:100vh;width:100vw}.sidebar{width:20%;background-color:#f4f4f4;padding:15px;overflow-y:auto;border-right:1px solid #ddd}.main{width:80%;padding:15px}.company{padding:10px;cursor:pointer;border-bottom:1px solid #ddd}.company:hover{background-color:#e9e9e9}
